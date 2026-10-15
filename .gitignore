@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.class
+out/
+output/
+.idea/
+.vscode/
+*.iml
